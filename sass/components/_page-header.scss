@@ -58,7 +58,7 @@
   margin-right: 50px;
 }
 
-.header-address {
+.header-contacts {
   display: flex;
   margin-left: auto;
 
@@ -68,11 +68,11 @@
   letter-spacing: 0.02em;
 }
 
-.header-address__item:not(:last-child) {
+.header-contacts__item:not(:last-child) {
   margin-right: 50px;
 }
 
-.header-address__link {
+.header-contacts__link {
   display: flex;
   align-items: center;
 
@@ -96,7 +96,7 @@
   }
 }
 
-.header-address__icon {
+.header-contacts__icon {
   margin-right: 10px;
   fill: currentColor;
 }

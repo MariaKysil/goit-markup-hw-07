@@ -1,9 +1,9 @@
-.section-occupation {
+.occupation {
   padding-bottom: 94px;
 }
 
-.section-occupation__title,
-.section-team__title,
+.occupation__title,
+.team__title,
 .portfolio__title {
   margin-bottom: 50px;
 
@@ -16,19 +16,19 @@
   color: var(--text-nav-title-color);
 }
 
-.section-occupation__list {
+.occupation__list {
   display: flex;
 }
 
-.section-occupation__item:not(:last-child) {
+.occupation__item:not(:last-child) {
   margin-right: 30px;
 }
 
-.section-occupation__thumb {
+.occupation__thumb {
   position: relative;
 }
 
-.section-occupation__overlay {
+.occupation__overlay {
   position: absolute;
   left: 0;
   bottom: 0;

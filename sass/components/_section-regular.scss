@@ -1,9 +1,9 @@
-.section-regular {
+.regular {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
-.section-regular__title {
+.regular__title {
   margin-bottom: 50px;
 
   font-style: normal;
@@ -16,17 +16,17 @@
   color: var(--text-nav-title-color);
 }
 
-.section-regular__list {
+.regular__list {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.section-regular__item:not(:last-child) {
+.regular__item:not(:last-child) {
   margin-right: 30px;
 }
 
-.section-regular__link {
+.regular__link {
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -48,6 +48,6 @@
   }
 }
 
-.section-regular__icon {
+.regular__icon {
   fill: currentColor;
 }
